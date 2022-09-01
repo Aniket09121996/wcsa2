@@ -21,5 +21,7 @@ public class Onlypractice {
 		
 		driver.findElement(By.xpath("//button[@class='L0Z3Pu']")).click();
 	}
-
+public static void simple(){
+	System.out.println("to check github");
+}
 }
