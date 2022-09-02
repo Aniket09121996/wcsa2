@@ -24,4 +24,10 @@ public class Onlypractice {
 public static void simple(){
 	System.out.println("to check github");
 }
+public static void simple2(){
+	System.out.println("welcome to github");
+}
+public static void pull2(){
+	System.out.println("method is pulled");
+}
 }
